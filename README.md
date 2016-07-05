@@ -16,10 +16,6 @@ For example I wanna auto-replay this video https://www.youtube.com/watch?v=ukigj
 
 Just paste the part __?v=ukigjUvwAR4__ in the end of the URL and we're good to go.
 
-Example with local file on browser. The final URL is
-
-> file:///C:/Users/Admin/Desktop/Static-youtube-loop/index.html?v=_-KiD98d3_o
-
-Example with web server, we can hide index.html in URL. The final URL is
+With web server, we can hide index.html in URL. The final URL is
 
 > http://www.example.com/?v=ukigjUvwAR4
