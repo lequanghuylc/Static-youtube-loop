@@ -16,6 +16,8 @@ For example I wanna auto-replay this video https://www.youtube.com/watch?v=ukigj
 
 Just paste the part __?v=ukigjUvwAR4__ in the end of the URL and we're good to go.
 
-With web server, we can hide index.html in URL. The final URL is
+You can use it by browsing local file (__eg: /index.html?v=ukigjUvwAR4__). But putting it in web server is the best use. Since it's just a static file, you can upload it in any static hosting (like github pages).
+
+With web server environment, we can hide index.html in URL. The final URL is
 
 > http://www.example.com/?v=ukigjUvwAR4
