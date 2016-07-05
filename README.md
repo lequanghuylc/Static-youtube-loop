@@ -21,3 +21,7 @@ You can use it by browsing local file (__eg: /index.html?v=ukigjUvwAR4__). But p
 With web server environment, we can hide index.html in URL. The final URL is
 
 > http://www.example.com/?v=ukigjUvwAR4
+
+## Live Demo
+
+> https://www.youtubereplay.xyz/?v=ukigjUvwAR4
