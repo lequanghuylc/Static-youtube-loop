@@ -12,16 +12,16 @@ Just clone my repo
 
 The __index.html__ file in there is all you need.
 ## Usage
-For example I wanna auto-replay this video https://www.youtube.com/watch?v=ukigjUvwAR4
+For example I wanna auto-replay this video https://www.youtube.com/watch?v=UhgwQPhxR20
 
-Just paste the part __?v=ukigjUvwAR4__ in the end of the URL and we're good to go.
+Just paste the part __?v=UhgwQPhxR20__ in the end of the URL and we're good to go.
 
-You can use it by browsing local file (__eg: /index.html?v=ukigjUvwAR4__). But putting it in web server is the best use. Since it's just a static file, you can upload it in any static hosting (like github pages).
+You can use it by browsing local file (__eg: /index.html?v=UhgwQPhxR20__). But putting it in web server is the best use. Since it's just a static file, you can upload it in any static hosting (like github pages).
 
 With web server environment, we can hide index.html in URL. The final URL is
 
-> http://www.example.com/?v=ukigjUvwAR4
+> http://www.example.com/?v=UhgwQPhxR20
 
 ## Live Demo
 
-> https://www.youtubereplay.xyz/?v=ukigjUvwAR4
+> https://www.youtubereplay.xyz/?v=UhgwQPhxR20
