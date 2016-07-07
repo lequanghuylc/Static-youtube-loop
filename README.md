@@ -1,9 +1,14 @@
 # Static-youtube-loop
 Autoplay and loop youtube for eternerty with a single html file.
+
 ## Introduction
 As you know, Youtube doesn't have autoreplay feature build-in. It has replay button in the end and autoplay new video (by default) instead.The need for auto-replay youtube video is enormous. You can see on Youtube some Music Videos posted in 10 hours content loop, or many sites built up just to auto-replay videos.
 
 While most of those sites are built with server-side languague like php, python. __Static-youtube-loop__ brings in the simplest solution that can help you auto-replay video with just __an HTML file__. 
+
+## What's inside
+
+It's just __VideoJs Player__ with video source from youtube, plus loop feature turned on. So in the __index.html__ file, there are implements of minified videojs (js and css).
 
 ## Setup
 Just clone my repo
